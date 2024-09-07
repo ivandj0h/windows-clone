@@ -24,7 +24,7 @@ To get this project running on your local machine, follow these simple steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/MishanPoudel/Windows11-3.0
+   git clone https://github.com/ivandi1980/windows-clone.git
    ```
 
 2. **Navigate to the project directory:**
