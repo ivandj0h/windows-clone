@@ -68,11 +68,11 @@ Want to contribute? We’d love your help! Fork the repository, make your change
 
 ## <div style="margin-left:10px;">⭐ Support
 
-If you enjoy this project or find it useful, please consider giving it a star on [GitHub](https://github.com/MishanPoudel/Windows11-3.0). Your support means a lot and helps encourage further development! 🌟
+If you enjoy this project or find it useful, please consider giving it a star on [GitHub](https://github.com/ivandi1980/windows-clone). Your support means a lot and helps encourage further development! 🌟
 
 ## <div style="margin-left:10px;"> Contact
 
-Got questions or feedback? Reach out at [your-email@example.com](mailto:poudelmishan2@gmail.com). We’d love to hear from you!
+Got questions or feedback? Reach out at [your-email@example.com](mailto:ivandi.djoh@gmail.com). We’d love to hear from you!
 
 ## <div style="margin-left:10px;">🚧 Note
 
